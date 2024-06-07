@@ -1,0 +1,15 @@
+artifact_uri: /home/prithiveer/exercise_3.2/mlruns/856422948774763353/aa9db6718aa74a64a068b3b5ee66464d/artifacts
+end_time: 1717782890036
+entry_point_name: ''
+experiment_id: '856422948774763353'
+lifecycle_stage: active
+run_id: aa9db6718aa74a64a068b3b5ee66464d
+run_name: indecisive-stoat-80
+run_uuid: aa9db6718aa74a64a068b3b5ee66464d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717782888789
+status: 3
+tags: []
+user_id: prithiveer

@@ -1,0 +1,15 @@
+artifact_uri: /home/prithiveer/exercise_3.2/mlruns/856422948774763353/b5e7a1a0a61343d89b89f00c17ea6cc2/artifacts
+end_time: 1717782982141
+entry_point_name: ''
+experiment_id: '856422948774763353'
+lifecycle_stage: active
+run_id: b5e7a1a0a61343d89b89f00c17ea6cc2
+run_name: secretive-bird-155
+run_uuid: b5e7a1a0a61343d89b89f00c17ea6cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717782980880
+status: 3
+tags: []
+user_id: prithiveer

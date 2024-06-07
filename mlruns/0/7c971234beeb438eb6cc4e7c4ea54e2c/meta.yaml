@@ -1,0 +1,15 @@
+artifact_uri: /home/prithiveer/exercise_3.2/mlruns/0/7c971234beeb438eb6cc4e7c4ea54e2c/artifacts
+end_time: 1717784363566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c971234beeb438eb6cc4e7c4ea54e2c
+run_name: shivering-swan-885
+run_uuid: 7c971234beeb438eb6cc4e7c4ea54e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717784070529
+status: 3
+tags: []
+user_id: prithiveer
